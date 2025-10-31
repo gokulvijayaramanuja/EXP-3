@@ -1,4 +1,4 @@
-# EXPT NO: 3		
+# EXP NO: 3		
 # STAIR CASE WIRING                     
 ## Name:GOKUL VIJAYA RAMANUJA P
 ## Reg:212222240030
